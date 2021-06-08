@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         科大校园网自动登录
-// @version      0.1
+// @version      0.1.1
 // @author       天涯之北
 // @match        http://172.16.1.3
 // @match        http://172.16.1.3/?isReback=1
